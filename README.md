@@ -1,2 +1,2 @@
 # Housing-Prices
-ML Project1
+Hello, this project is about predicting housing prices  accurately on the basis of various parameters.
